@@ -8,6 +8,7 @@ Trabalho de IHC e UX.
 - Luana Xavier Monteiro
 - João Augusto Miranda Viana de Souza
 - Letícia Petrina Machado silva
+- Eduarda Luiza Vitorio
 
 
 ## Sobre o Projeto
